@@ -1,3 +1,1 @@
-# JuryMind AI
-
-Agentic LLM Evaluations, Prompt Optimization and Dataset generation
+![alt text](https://github.com/GeorgeDittmar/jurymindai-page/blob/main/jurymindai-logo.png?raw=true)
